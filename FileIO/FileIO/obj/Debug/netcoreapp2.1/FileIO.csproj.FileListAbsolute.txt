@@ -1,0 +1,17 @@
+/Users/rezzayazme/Projects/FileIO/FileIO/obj/Debug/netcoreapp2.1/FileIO.csprojAssemblyReference.cache
+/Users/rezzayazme/Projects/FileIO/FileIO/obj/Debug/netcoreapp2.1/FileIO.csproj.CoreCompileInputs.cache
+/Users/rezzayazme/Projects/FileIO/FileIO/obj/Debug/netcoreapp2.1/FileIO.AssemblyInfoInputs.cache
+/Users/rezzayazme/Projects/FileIO/FileIO/obj/Debug/netcoreapp2.1/FileIO.AssemblyInfo.cs
+/Users/rezzayazme/Projects/FileIO/FileIO/bin/Debug/netcoreapp2.1/FileIO.deps.json
+/Users/rezzayazme/Projects/FileIO/FileIO/bin/Debug/netcoreapp2.1/FileIO.runtimeconfig.json
+/Users/rezzayazme/Projects/FileIO/FileIO/bin/Debug/netcoreapp2.1/FileIO.runtimeconfig.dev.json
+/Users/rezzayazme/Projects/FileIO/FileIO/bin/Debug/netcoreapp2.1/FileIO.dll
+/Users/rezzayazme/Projects/FileIO/FileIO/bin/Debug/netcoreapp2.1/FileIO.pdb
+/Users/rezzayazme/Projects/FileIO/FileIO/obj/Debug/netcoreapp2.1/FileIO.dll
+/Users/rezzayazme/Projects/FileIO/FileIO/obj/Debug/netcoreapp2.1/FileIO.pdb
+/Users/yassermeza/Desktop/FileIO/FileIO/obj/Debug/netcoreapp2.1/FileIO.csprojAssemblyReference.cache
+/Users/yassermeza/Desktop/FileIO/FileIO/obj/Debug/netcoreapp2.1/FileIO.csproj.CoreCompileInputs.cache
+/Users/yassermeza/Desktop/FileIO/FileIO/obj/Debug/netcoreapp2.1/FileIO.AssemblyInfoInputs.cache
+/Users/yassermeza/Desktop/FileIO/FileIO/obj/Debug/netcoreapp2.1/FileIO.AssemblyInfo.cs
+/Users/yassermeza/Desktop/FileIO/FileIO/obj/Debug/netcoreapp2.1/FileIO.dll
+/Users/yassermeza/Desktop/FileIO/FileIO/obj/Debug/netcoreapp2.1/FileIO.pdb
